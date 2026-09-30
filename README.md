@@ -60,6 +60,6 @@ Re-run `build_exe.bat` any time you update `payment_records.py`; the `.exe` does
 
 All records are kept in `payments.db`, an SQLite file created next to the app (or next to the `.exe`, if packaged). Back up your data by copying this file.
 
-## License
 
-Add a license of your choice here (for example, MIT) if you plan to share this repository publicly.
+
+
